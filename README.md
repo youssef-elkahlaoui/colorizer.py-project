@@ -5,14 +5,11 @@ The `colorizer.py` project is designed to colorize black and white images using 
 
 ## Prerequisites
 - Python 3.6 or higher
-- Required Python packages (listed in `requirements.txt`)
+- Demo images (listed in `py images`)
 
 ## Setup
 
 ### Step 1: Unzip Model Files
 Unzip all model files into a single directory. This directory will be referenced in the `colorizer.py` script.
 
-### Step 2: Install Required Packages
-Install the required Python packages using `pip`:
-```bash
-pip install -r requirements.txt
+### Step 2: test using py images folder
