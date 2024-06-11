@@ -31,7 +31,7 @@ This project is a photo colorization tool that converts grayscale images to colo
     pip install -r requirements.txt
     
 
-3. Download the model files:
+3. Download the model files Or Unzip all model.zip files on the same folder:
     - [colorization_deploy_v2.prototxt](https://github.com/richzhang/colorization/blob/caffe/models/colorization_deploy_v2.prototxt)
     - [colorization_release_v2.caffemodel](https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=1)
     - [pts_in_hull.npy](https://github.com/richzhang/colorization/blob/caffe/resources/pts_in_hull.npy)
