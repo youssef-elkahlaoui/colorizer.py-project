@@ -45,7 +45,7 @@ Run the application using the following command:
 python main.py
 ```
 ## Structure:
-- photo-colorizer
+- pyFinal
   - main.py                  # Main entry point of the application
   - gui.py                   # Contains GUI creation and update functions
   - colorizer.py             # Functions for loading the model and colorizing images
